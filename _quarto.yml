@@ -14,7 +14,8 @@ website:
 format:
   html:
     theme: 
-      - mystyle.scss
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
     mainfont: Zilla Slab
       # light: cosmo
       # dark: slate
