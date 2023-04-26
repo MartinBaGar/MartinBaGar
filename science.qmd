@@ -1,9 +1,12 @@
 ---
 title: "Science"
 toc: true
+csl: citations/csl/nature.csl
+bibliography: citations/bibliography/Illkirch_CCM.bib
 ---
 # Hi 
 
 ## hi
 
-# HI
+# HI 
+Test de bibliographie @chenMolecularMechanismHIV12019

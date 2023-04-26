@@ -1,7 +1,8 @@
 ---
-title: "MaBaGar.github.io"
+title: "Welcome visitor !"
 ---
 
-This is a Quarto website.
+This is my Quarto website, it is still in construction...
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.\
+To learn more about me, come back later ! (and check the [about page](https://martinbagar.github.io/about.html))
