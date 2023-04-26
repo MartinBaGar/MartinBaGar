@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "MaBaGar.github.io"
+  title: "My Personnal Projects"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - science.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - mystyle.scss
+    mainfont: Zilla Slab
+      # light: cosmo
+      # dark: slate
     css: styles.css
     toc: true
 

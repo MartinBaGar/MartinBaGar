@@ -1,5 +1,14 @@
 ---
 title: "About"
+about:
+    template: trestles
+    links:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/samanthacsik/
+      - text: GitHub
+        href: https://github.com/MartinBaGar
+      - text: Email
+        href: mailto:martin.bari-garnier@etu.unistra.fr
 ---
 
 About this site
