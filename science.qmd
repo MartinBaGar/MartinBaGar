@@ -5,13 +5,12 @@ csl: citations/csl/nature.csl
 bibliography: citations/bibliography/Illkirch_CCM.bib
 ---
 # The Synthesis of Larvicidal Silver Nanoparticles
-To obtain my University Diploma of Technology in Organic and Synthesis Chemistry at the Université Paris-Est Créteil, I had the opportunity to do a 3 month internship in Recife, Brazil at th Universidade Federale de Pernambouco in Departement of Fundamental Chemistry under Marcello Navarro's tutoring. 
+To obtain my [University Diploma of Technology](https://www.letudiant.fr/etudes/btsdut/des-dut-aux-but-le-point-sur-le-nouveau-bachelor-universitaire-de-technologie.html) in Organic and Synthesis Chemistry at the Université Paris-Est Créteil, I had the opportunity to do a 3 month internship in Recife, Brazil at th Universidade Federale de Pernambouco in Departement of Fundamental Chemistry under Marcello Navarro's tutoring. 
 This is a [poster](https://martinbagar.github.io/documents/poster_stage-bresil.pdf) I made for my internship in Brazil, in the Universidade Federal de Pernambouco (Recife).
 
-<a href="documents/poster_stage-bresil.pdf" target="_blank">Click here to open the PDF file</a>
 
+# Characterization of TXNIP expression in cancer lines
 
-## hi
-
-# HI 
+# HIV-1 tropism with CCR5
+ 
 Test de bibliographie @chenMolecularMechanismHIV12019

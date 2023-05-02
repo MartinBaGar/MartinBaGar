@@ -14,9 +14,9 @@ website:
 format:
   html:
     theme: 
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
-    mainfont: Zilla Slab
+      light: mystyle.scss
+      dark: [mystyle.scss, theme-dark.scss]
+    mainfont: Roboto
       # light: cosmo
       # dark: slate
     css: styles.css

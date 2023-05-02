@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Fonts
-@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 // Colors
 $light-sage-green: #D1D9CE;
@@ -10,10 +10,11 @@ $cream: #FDFBF7;
 $gray: #64605f;
 $light-gray: #949799;
 $purple: #AE8BD1;
+$dark: #010202;
 
 // Base document colors
 $navbar-bg: $cream; // navbar
-$navbar-fg: $dark-sage-green; // navbar foreground elements
+$navbar-fg: $dark; // navbar foreground elements
 $navbar-hl: $purple; // highlight color when hovering over navbar links
 $body-bg: $light-sage-green; // page background 
 $body-color: $gray; // page text 
