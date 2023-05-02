@@ -5,6 +5,7 @@ csl: citations/csl/nature.csl
 bibliography: citations/bibliography/Illkirch_CCM.bib
 ---
 # Hi 
+This is a [poster](https://martinbagar.github.io/documents/poster_stage-bresil.pdf) I made for my internship in Brazil, in the Universidade Federal de Pernambouco (Recife).
 
 ## hi
 
