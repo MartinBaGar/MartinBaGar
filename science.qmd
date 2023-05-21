@@ -1,18 +1,7 @@
 ---
 title: "Science"
 toc: true
-website:
-  reader-mode: true
-  sidebar:
-    style: "docked"
-    search: false
-    contents:
-      - section: "Internships"
-        contents:
-          - documents/brazil_internship.qmd
-          - documents/japan_internship.qmd
-          - documents/france_internship.qmd
-
+sidebar: false
 csl: citations/csl/nature.csl
 bibliography: citations/bibliography/Illkirch_CCM.bib
 ---

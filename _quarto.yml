@@ -10,6 +10,16 @@ website:
         text: Home
       - about.qmd
       - science.qmd
+  reader-mode: true
+  sidebar:
+    style: "docked"
+    search: false
+    contents:
+      - section: "Internships"
+        contents:
+          - documents/brazil_internship.qmd
+          - documents/japan_internship.qmd
+          - documents/france_internship.qmd
 
 format:
   html:

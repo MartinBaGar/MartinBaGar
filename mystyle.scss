@@ -11,13 +11,15 @@ $gray: #64605f;
 $light-gray: #949799;
 $purple: #AE8BD1;
 $dark: #010202;
+$white: #FFFFFF;
+$black: #000000;
 
 // Base document colors
-$navbar-bg: $cream; // navbar
-$navbar-fg: $dark; // navbar foreground elements
+$navbar-bg: $black; // navbar
+$navbar-fg: $white; // navbar foreground elements
 $navbar-hl: $purple; // highlight color when hovering over navbar links
-$body-bg: $light-sage-green; // page background 
-$body-color: $gray; // page text 
+$body-bg: $white; // page background 
+$body-color: $black; // page text 
 $footer-bg: $cream; // footer 
 $link-color: $purple; // hyperlinks 
 
