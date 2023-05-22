@@ -22,5 +22,14 @@
   },
   "documents/japan_internship.qmd": {
     "japan_internship.html": "ad0c7f3b"
+  },
+  "internships/brazil_internship.qmd": {
+    "brazil_internship.html": "717af9cf"
+  },
+  "internships/index.qmd": {
+    "index.html": "5afb741d"
+  },
+  "music.qmd": {
+    "music.html": "146fcc25"
   }
 }

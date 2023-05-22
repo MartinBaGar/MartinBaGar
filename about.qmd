@@ -4,7 +4,7 @@ about:
     template: trestles
     links:
       - text: LinkedIn
-        href: https://www.linkedin.com/in/samanthacsik/
+        href: https://www.linkedin.com/in/martin-bari-garnier-4657ab159/
       - text: GitHub
         href: https://github.com/MartinBaGar
       - text: Email

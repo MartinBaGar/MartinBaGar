@@ -3,23 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "My Personnal Projects"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - science.qmd
+  title: My Personnal Projects
   reader-mode: true
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Science"
+        file: science.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Music"
+        file: music.qmd
+
   sidebar:
-    style: "docked"
-    search: false
-    contents:
-      - section: "Internships"
-        contents:
-          - documents/brazil_internship.qmd
-          - documents/japan_internship.qmd
-          - documents/france_internship.qmd
+    - title: "My works in science"
+      style: "docked"
+      background: light
+      contents:
+      - science.qmd
+      - auto: internships
+
+    - title: "Home"
+      contents:
+        - index.qmd
+
+    - title: "Music"
+      contents:
+      - music.qmd
 
 format:
   html:

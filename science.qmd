@@ -1,7 +1,6 @@
 ---
-title: "Science"
+title: "My works in Science"
 toc: true
-sidebar: false
 csl: citations/csl/nature.csl
 bibliography: citations/bibliography/Illkirch_CCM.bib
 ---
