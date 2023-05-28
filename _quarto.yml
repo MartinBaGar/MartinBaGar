@@ -32,7 +32,7 @@ website:
 
     - title: "Music"
       contents:
-      - music.qmd
+        - music.qmd
 
 format:
   html:
