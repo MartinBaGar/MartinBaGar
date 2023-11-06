@@ -37,5 +37,23 @@
   },
   "internships/japan_internship.qmd": {
     "japan_internship.html": "e298fac0"
+  },
+  "studies.qmd": {
+    "studies.html": "d184e62f"
+  },
+  "music/bands/current/anaptosis.qmd": {
+    "anaptosis.html": "71323d8a"
+  },
+  "music/bands/current/desperate.qmd": {
+    "desperate.html": "70c77063"
+  },
+  "music/bands/index.qmd": {
+    "index.html": "96a1dd58"
+  },
+  "music/bands/previous/ovni.qmd": {
+    "ovni.html": "92ac0bd1"
+  },
+  "music/personnal_projects/index.qmd": {
+    "index.html": "1d8f7cfb"
   }
 }

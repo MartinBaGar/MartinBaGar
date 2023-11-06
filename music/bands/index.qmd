@@ -1,0 +1,13 @@
+---
+title: "My Bands"
+toc: true
+---
+
+As a metalhead you can guess what my bands are about...
+
+# Current Bands
+- Anaptosis
+- Desperate
+
+# Previous Bands
+- 0110 (OVNI)

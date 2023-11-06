@@ -1,5 +1,12 @@
 ---
-title: "Me as musician"
+title: "My musical activites"
+toc: True
 ---
 
-Drummer and compositor
+# My instruments
+
+## Drums
+I have been learning drums since 2011 and our love story is still going on.
+
+## Computer Music
+I also really like creating songs in FL Studio, using mainly rock/metal and orchestral instruments or any instrument that, in the moment, inspires me to play a melody.

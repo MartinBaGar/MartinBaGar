@@ -1,0 +1,7 @@
+---
+title: My Personnal Musical Projects
+toc: True
+---
+# Computer Music
+I started composing with LMMS and quickly migrated to FL Studio. 
+As a student, always look to buy an education/academic license, it's much cheaper. You don't have to be in a musical school, don't worry.

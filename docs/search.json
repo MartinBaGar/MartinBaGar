@@ -72,9 +72,9 @@
   {
     "objectID": "music.html",
     "href": "music.html",
-    "title": "Me as musician",
+    "title": "My musical activites",
     "section": "",
-    "text": "Drummer and compositor"
+    "text": "I have been learning drums since 2011 and our love story is still going on.\n\n\n\nI also really like creating songs in FL Studio, using mainly rock/metal and orchestral instruments or any instrument that, in the moment, inspires me to play a melody."
   },
   {
     "objectID": "internships/france_internship.html",
@@ -89,5 +89,40 @@
     "title": "ohayo gosaimasu",
     "section": "",
     "text": "Konichiwa"
+  },
+  {
+    "objectID": "studies.html",
+    "href": "studies.html",
+    "title": "Studies",
+    "section": "",
+    "text": "I did all those studies"
+  },
+  {
+    "objectID": "music.html#drums",
+    "href": "music.html#drums",
+    "title": "My musical activites",
+    "section": "",
+    "text": "I have been learning drums since 2011 and our love story is still going on."
+  },
+  {
+    "objectID": "music.html#computer-music",
+    "href": "music.html#computer-music",
+    "title": "My musical activites",
+    "section": "",
+    "text": "I also really like creating songs in FL Studio, using mainly rock/metal and orchestral instruments or any instrument that, in the moment, inspires me to play a melody."
+  },
+  {
+    "objectID": "music/bands/index.html",
+    "href": "music/bands/index.html",
+    "title": "My Bands",
+    "section": "",
+    "text": "As a metalhead you can guess what my bands are about…\n\nCurrent Bands\n\nAnaptosis\nDesperate\n\n\n\nPrevious Bands\n\n0110 (OVNI)"
+  },
+  {
+    "objectID": "music/personnal_projects/index.html",
+    "href": "music/personnal_projects/index.html",
+    "title": "My Personnal Musical Projects",
+    "section": "",
+    "text": "Computer Music\nI started composing with LMMS and quickly migrated to FL Studio. As a student, always look to buy an education/academic license, it’s much cheaper. You don’t have to be in a musical school, don’t worry."
   }
 ]
